@@ -1,0 +1,28 @@
+5/5
+
+Modificacion linea fin de Case's: (AddHandler item.Click , AddressOf Menus_ItemClicked) por (AddHandler item.Click, AddressOf Menus_Click)
+Modificacion del evento ItemClicked: se cambio de evento por Click
+Modificacion de Catch: (ArgumentNullException) por (NullReferenceException)
+Reutilizacion de variables locales en Catch: para mostrar solo el nombre del formulario y no sus parámetros. (Ej con Lista usuarios)
+
+Codigo reemplazado
+   - AddHandler item.Click , AddressOf Menus_ItemClicked
+   - Private Sub Menus_ItemClicked(ByVal sender As Object, ByVal e As System.Windows.Forms.ToolStripItemClickedEventArgs) Handles Menus.ItemClicked
+    End Sub
+
+6/5
+
+Se agregó una funcion para evitar login: LoginRapido(), solo como administrador
+Se agrego el AM de perfiles
+Se agregó la búsqueda por ID y PERFIL en los texts.
+
+10/5
+
+Se completó el logeo rápido para todos los perfiles.
+Se completó el AMB de perfiles.
+Se limpió el código.
+Se corrigió error con los menues (Mostraba error si se seleccionaba un menu de Nivel 1).
+
+
+
+

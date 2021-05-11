@@ -1,0 +1,13 @@
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\bin\Debug\PP1.exe
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\bin\Debug\PP1.pdb
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\bin\Debug\PP1.xml
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\bin\Debug\MySql.Data.dll
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.vbprojResolveAssemblyReference.cache
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Resources.resources
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.vbproj.GenerateResource.Cache
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.exe
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.xml
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.pdb
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Frm_Login.resources
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Frm_Perfiles.resources
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Frm_Consultas.resources
