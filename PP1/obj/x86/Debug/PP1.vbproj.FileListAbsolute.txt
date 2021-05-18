@@ -11,3 +11,4 @@ C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\D
 C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Frm_Login.resources
 C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Frm_Perfiles.resources
 C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Frm_Consultas.resources
+C:\Users\germi\onedrive\documentos\visual studio 2010\Projects\PP1\PP1\obj\x86\Debug\PP1.Frm_Usuarios.resources

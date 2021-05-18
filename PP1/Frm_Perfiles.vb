@@ -1,5 +1,6 @@
 ﻿Public Class Frm_Perfiles
     ' Testeo para git
+
     Private Sub Frm_Perfiles_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
 
         Me.Top = (Frm_Login.Height - Me.Height) / 2 ' añadido 5/5
