@@ -175,7 +175,7 @@ Public Class Frm_Login
                         Dim item As New ToolStripMenuItem(DT.Rows(i)("texto_menu").ToString)
 
                         item.Name = DT.Rows(i).Item("nombre_menu") ' nombre lógico
-                        item.Text = DT.Rows(i)("texto_menu").ToString ' texto del menu que aparece en pantalla
+                        item.Text = DT.Rows(i).Item("texto_menu").ToString ' texto del menu que aparece en pantalla
                         item.Tag = DT.Rows(i).Item("formulario") & ";" & DT.Rows(i).Item("parametro") ' tag lógico
                         Menus.Items.Add(item)
 
@@ -188,7 +188,7 @@ Public Class Frm_Login
                         'Creamos los datos propios del sub menu
                         item.Name = DT.Rows(i).Item("nombre_menu")
                         item.Tag = DT.Rows(i).Item("formulario") & ";" & DT.Rows(i).Item("parametro")
-                        item.Text = DT.Rows(i)("texto_menu").ToString
+                        item.Text = DT.Rows(i).Item("texto_menu").ToString
 
                         'Buscamos su padre y lo añadimos
                         level_sup = DT.Rows(i).Item("pertenece_menu")
@@ -206,7 +206,7 @@ Public Class Frm_Login
                         'Creamos los datos propios del sub menu
                         item.Name = DT.Rows(i).Item("nombre_menu")
                         item.Tag = DT.Rows(i).Item("formulario") & ";" & DT.Rows(i).Item("parametro")
-                        item.Text = DT.Rows(i)("texto_menu").ToString
+                        item.Text = DT.Rows(i).Item("texto_menu").ToString
 
                         'Buscamos su padre y lo añadimos
                         level_sup = DT.Rows(i).Item("pertenece_menu")

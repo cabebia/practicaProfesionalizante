@@ -81,6 +81,24 @@
     <Compile Include="Frm_Consultas.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Frm_Lista_Menus.Designer.vb">
+      <DependentUpon>Frm_Lista_Menus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Lista_Menus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Lista_Perfiles.Designer.vb">
+      <DependentUpon>Frm_Lista_Perfiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Lista_Perfiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Lista_Usuarios.Designer.vb">
+      <DependentUpon>Frm_Lista_Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Lista_Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Frm_Login.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -88,10 +106,22 @@
       <DependentUpon>Frm_Login.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Frm_Menus.Designer.vb">
+      <DependentUpon>Frm_Menus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Menus.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Frm_Perfiles.Designer.vb">
       <DependentUpon>Frm_Perfiles.vb</DependentUpon>
     </Compile>
     <Compile Include="Frm_Perfiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Usuarios.Designer.vb">
+      <DependentUpon>Frm_Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Usuarios.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MiComboBox.vb" />
@@ -121,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_Perfiles.resx">
       <DependentUpon>Frm_Perfiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Usuarios.resx">
+      <DependentUpon>Frm_Usuarios.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
